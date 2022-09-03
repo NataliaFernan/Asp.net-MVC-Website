@@ -1,0 +1,35 @@
+﻿.header{
+
+}
+
+h1{
+    font-size:100px;
+}
+
+.title {
+    text-align: center;
+    padding-top: 80px;
+}
+
+.img {
+    width: 1400px;
+    margin-left: -150px; 
+    padding-top: 100px;
+}
+
+.container {
+    display: flex;
+    padding-right: 100px;
+}
+
+.conteudo1{
+    
+}
+.conteudo2 {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.conteudo3 {
+   
+}
+
